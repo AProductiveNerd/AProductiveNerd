@@ -4,7 +4,8 @@ hi
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   11 mins         ██████████████░░░░░░░░░░░   56.21 % 
-TypeScript   8 mins          ██████████▒░░░░░░░░░░░░░░   41.31 % 
+TypeScript   55 mins         ██████████████▒░░░░░░░░░░   56.99 % 
+JavaScript   29 mins         ███████▓░░░░░░░░░░░░░░░░░   30.41 % 
+JSON         11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 ```
 <!--END_SECTION:waka-->
