@@ -4,8 +4,6 @@ hi
 
 <!--START_SECTION:waka-->
 ```text
-Total: 2 hrs 3 mins
-
 JavaScript   1 hr 38 mins    ████████████████████░░░░░   79.58 % 
 Python       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 JSON         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
