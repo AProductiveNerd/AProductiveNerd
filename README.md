@@ -4,6 +4,7 @@ hi
 
 <!--START_SECTION:waka-->
 ```text
-Java         34 mins         ████████████████████████▓   98.25 % 
+Java         34 mins         ███████████████████████▓░   94.53 % 
+JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 ```
 <!--END_SECTION:waka-->
