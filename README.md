@@ -5,9 +5,8 @@ hi
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   51 mins         ███████████████████▓░░░░░   78.71 %
-JavaScript   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+TypeScript   15 mins         ██████████████▓░░░░░░░░░░   59.26 %
+AutoHotkey   10 mins         ██████████▒░░░░░░░░░░░░░░   40.74 %
 ```
 
 <!--END_SECTION:waka-->
