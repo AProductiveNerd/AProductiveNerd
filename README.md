@@ -5,8 +5,8 @@ hi
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 mins         ██████████████▓░░░░░░░░░░   59.26 %
-AutoHotkey   10 mins         ██████████▒░░░░░░░░░░░░░░   40.74 %
+TypeScript   15 mins         ██████████████▓░░░░░░░░░░   59.02 %
+AutoHotkey   10 mins         ██████████▒░░░░░░░░░░░░░░   40.98 %
 ```
 
 <!--END_SECTION:waka-->
