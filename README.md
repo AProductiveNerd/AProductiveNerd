@@ -5,7 +5,9 @@ hi
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   23 mins         █████████████████████████   100.00 %
+JavaScript   23 mins         ███████████▓░░░░░░░░░░░░░   47.03 %
+TypeScript   20 mins         ██████████▓░░░░░░░░░░░░░░   42.27 %
+Other        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
 ```
 
 <!--END_SECTION:waka-->
