@@ -5,8 +5,8 @@ hi
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 57 mins    ████████████░░░░░░░░░░░░░   48.38 %
-Other        1 hr 34 mins    █████████▓░░░░░░░░░░░░░░░   38.57 %
+TypeScript   1 hr 57 mins    ████████████▓░░░░░░░░░░░░   50.51 %
+Other        1 hr 34 mins    ██████████░░░░░░░░░░░░░░░   40.27 %
 ```
 
 <!--END_SECTION:waka-->
