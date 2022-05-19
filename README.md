@@ -5,7 +5,7 @@ hi
 <!--START_SECTION:waka-->
 
 ```text
-Java   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   2 hrs 4 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
