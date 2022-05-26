@@ -5,8 +5,8 @@ hi
 <!--START_SECTION:waka-->
 
 ```text
-Java         2 hrs 21 mins   ████████████████████████▓   98.37 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Java         16 mins         ██████████████████████░░░   87.38 %
+JavaScript   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
 ```
 
 <!--END_SECTION:waka-->
