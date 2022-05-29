@@ -5,7 +5,8 @@ hi
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   5 mins          ██████████████▓░░░░░░░░░░   59.01 %
+JSON         3 mins          ██████████▒░░░░░░░░░░░░░░   40.99 %
 ```
 
 <!--END_SECTION:waka-->
