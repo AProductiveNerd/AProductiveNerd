@@ -5,9 +5,8 @@ hi
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 mins          ████████████████████████░   96.22 %
-Text         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+TypeScript   1 min           ██████████████████████▒░░   89.70 %
+Text         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
 ```
 
 <!--END_SECTION:waka-->
