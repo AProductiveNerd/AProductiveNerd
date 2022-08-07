@@ -5,7 +5,7 @@ hi
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 min           ██████████████████████▒░░   89.70 %
+TypeScript   3 mins          ██████████████████████▒░░   89.70 %
 Text         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
 ```
 
