@@ -5,11 +5,7 @@ hi
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 17 mins   ███████████████████████▒░   93.75 %
-JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
