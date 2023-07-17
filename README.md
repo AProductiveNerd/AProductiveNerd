@@ -5,11 +5,11 @@ hi
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 56 mins  █████████████████████░░░░   83.63 %
-Other        1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-AutoHotkey   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript   9 hrs 31 mins   ███████████████████▓░░░░░   79.09 %
+Other        1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+JavaScript   53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+AutoHotkey   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
